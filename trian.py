@@ -42,3 +42,5 @@ model.fit(train_generator, epochs=5)
 # Save model
 model.save('model/signature_model.h5')
 print("✅ Model trained and saved as 'model/signature_model.h5'")
+
+
