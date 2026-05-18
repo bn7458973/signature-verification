@@ -43,5 +43,3 @@ If it’s missing, the app will show an error.
 ## Contributing
 Feel free to fork and improve the model/training pipeline.
 
-
-
